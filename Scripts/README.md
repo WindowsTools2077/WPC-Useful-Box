@@ -68,7 +68,7 @@
 ### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171558643821445130/Add_Quick_access_to_navigation_pane.reg">Enable</a>
 ### <div>	<p><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171575617003729057/Remove_Quick_access_to_navigation_pane.reg">Disable</a>
 
-> Your Phone (Not showing in settings-app)
+> Your Phone (Not showing in settings app)
 ### <div>	<a><a href="https://cdn.discordapp.com/attachments/1171553297442812005/1171558357644103721/Your_phone_unlock_settings.reg">Fix</a>
 
 > Pause Updates (till 2050)
